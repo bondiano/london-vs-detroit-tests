@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Vassiliy",
+    "money": 40,
+    "bonusPercent": 200
+  },
+  {
+    "name": "Oleg",
+    "money": 100,
+    "bonusPercent": 150
+  },
+  {
+    "name": "Petr",
+    "money": 600,
+    "bonusPercent": -10
+  }
+]

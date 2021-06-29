@@ -1,0 +1,23 @@
+{
+  "search.exclude": {
+    "**/.git": true,
+    "**/node_modules": true,
+    "**/build": true,
+    "**/package-lock.json": true,
+    "**/yarn.lock": true,
+    "**/.eslintrc.js": true
+  },
+  "editor.tabSize": 2,
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "typescript.preferences.importModuleSpecifier": "shortest",
+  "eslint.lintTask.enable": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "breadcrumbs.enabled": true,
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "files.autoSave": "onFocusChange",
+  "css.lint.unknownAtRules": "ignore",
+  "npm.packageManager": "yarn"
+}
